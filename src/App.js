@@ -13,14 +13,14 @@ export default function App() {
     { id: 8, name: "wartotle" },
     { id: 9, name: "blastoise" },
     { id: 6, name: "charizard" },
-    {id:2,name:"Ivysaur"},
+    {id:25,name:"Pikachu"},
     {id:7,name:"Squirtle"},
   ];
   const pokemons2 = [
     { id: 9, name: "blastoise" },
     {id:7,name:"Squirtle"},
     { id: 8, name: "wartotle" },
-    {id:2,name:"Ivysaur"},
+    {id:25,name:"Pikachu"},
     { id: 1, name: "balbasaur" },
     { id: 6, name: "charizard" }
   ];
@@ -31,7 +31,7 @@ export default function App() {
     setFirstRandom( pokemons.sort(() => Math.random() - 0.5))
   },[])
   useEffect(()=>{
-    setSecondRandom( pokemons2  .sort(() => Math.random() - 0.5))
+    setSecondRandom( pokemons2.sort(() => Math.random() - 0.5))
   },[])
  
   // console.log(firstRandom)

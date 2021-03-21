@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cardmemorygame/static/css/main.0c150c2d.chunk.css",
-    "main.js": "/cardmemorygame/static/js/main.36643083.chunk.js",
-    "main.js.map": "/cardmemorygame/static/js/main.36643083.chunk.js.map",
+    "main.js": "/cardmemorygame/static/js/main.d9412cce.chunk.js",
+    "main.js.map": "/cardmemorygame/static/js/main.d9412cce.chunk.js.map",
     "runtime-main.js": "/cardmemorygame/static/js/runtime-main.72c164aa.js",
     "runtime-main.js.map": "/cardmemorygame/static/js/runtime-main.72c164aa.js.map",
     "static/js/2.91ebf16b.chunk.js": "/cardmemorygame/static/js/2.91ebf16b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.72c164aa.js",
     "static/js/2.91ebf16b.chunk.js",
     "static/css/main.0c150c2d.chunk.css",
-    "static/js/main.36643083.chunk.js"
+    "static/js/main.d9412cce.chunk.js"
   ]
 }

@@ -83,11 +83,11 @@ p strong {
   background: #51dce0;
   color: #d6aeb5;
   font-size: 100px;
-  /* transition: 0.3s ease all; */
+  transition: 0.3s ease all; 
 }
 
-/* .pokemon-card .back:hover {
+ .pokemon-card .back:hover {
   background: #dba8b1;
   color: #fff;
   transform: scale(1.02);
-} */
+}
